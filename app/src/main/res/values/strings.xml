@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">highlight</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_switch">캡처</string>
+    <string name="action_share">공유</string>
+
+    <string name="title_activity_highlight">HighlightActivity</string>
+
+    <string name="subscription_key">8f6205c061b94cd8a4a2bcf3c7535b9b</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_search_result">SearchResultActivity</string>
+
+</resources>
